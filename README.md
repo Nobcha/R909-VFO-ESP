@@ -40,12 +40,20 @@ I'm reporting the relating articles on my BLOGs. Please visit.
  https://nobcha23.hatenablog.com/
  
 R909-VFO-ESP Schematics  R909-VFO_ESP32_SCM.pdf
+
 R909-VFO-ESP BOM    5531_esp_25_bom.pdf
+
 R909-VFO-ESP Gerber files    5531_esp_25.kicad_pcb.zip
+
 The diagnostic sketch after ASSY  R909_VFO_esp_ol_SWRE_i2c_TEST.ino
+
 Ported JCR VFO    JCR_R909-VFO-ESP_kpa.ino
+
 R909-VFO-ESP(10ｋHz-220MHｚ 50ch memories) R909_VFO_ESP_UNIV0406.ino
+
 KiCAD symbol for ESP32-C3 Super mini dev kit  ESP32-C3.kicad_sym
+
 KiCAD foot print for ESP32-C3 Super mini dev kit  ECP32C3-PinHeader-2x8.kicad_mod
+
 Gerber files for the front and back panels　https://github.com/Nobcha/R909-VFO/blob/main/front-back-p.kicad_pcb.zip
 
